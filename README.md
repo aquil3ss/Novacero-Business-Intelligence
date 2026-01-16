@@ -10,8 +10,8 @@ El análisis incluyó revisión de producción, logística y transporte, gestió
 Identificar desviaciones en la planificación de producción y logística, evaluando métricas clave y proponiendo soluciones para optimizar procesos y mejorar la eficiencia operacional.
 
 ## 🧠 Contenido del repositorio
-- `docs/novacero-informe.pdf` → Documento detallado con contexto del país y sector, planteamiento del problema, métricas y justificación.  
-- `docs/novacero-presentacion.pdf` → Presentación en diapositivas con resumen del análisis, soluciones y recomendaciones.
+- `docs/Análisis de Novacero.pdf` → Documento detallado con contexto del país y sector, planteamiento del problema, métricas y justificación.  
+- `docs/Novacero.pdf` → Presentación en diapositivas con resumen del análisis, soluciones y recomendaciones.
 
 ## 🛠 Herramientas y enfoque
 - **Metodología:** Business Intelligence aplicada a problemas reales  
